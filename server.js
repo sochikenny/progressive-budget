@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 3100;
 const app = express();
 
 mongoose.connect(process.env.MONGODB_URI || 
-  "mongodb://localhost/budget", 
+  "mongodb://sochikenny:Fairfield19@ds151108.mlab.com:51108/heroku_jcbcchg9", 
   {
   useNewUrlParser: true,
   useFindAndModify: false
