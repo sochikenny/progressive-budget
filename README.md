@@ -1,5 +1,9 @@
 # Progressive Online/Offline Budget Tracker
 
+## Description
+
+A progressive web application that helps you track your cash flow both online and offline
+
 ## User Story
 ```
 As an avid traveller, 
